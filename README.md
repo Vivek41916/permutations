@@ -1,0 +1,2 @@
+# permutations
+finding the permutations.
