@@ -1,0 +1,4 @@
+from itertools import *
+l=list(map(str,input().split()))
+for k in sorted(list(permutations(l[0],int(l[1])))):
+    print("".join(k))
